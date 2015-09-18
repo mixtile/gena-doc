@@ -13,7 +13,7 @@ Archives
 
 The *archives* directory contains the formated documents and resources for Gena.
 
-* *archives/en/gena-assembly-structure.pdf*
+* :doc:`archives/en/gena-assembly-structure.pdf`
 * *archives/en/gena-design-guideline-of-accessories.pdf*
 * *archives/zh/Gena 外壳设计指南.pdf*
 * *archives/zh/Gena 装配图.pdf*
