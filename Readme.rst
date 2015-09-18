@@ -6,7 +6,7 @@ Mixtile Gena Documents
   :width: 60%
   :align: center
 
-This is the repositofy for Documents referring to Gena, a wearable/IoT kit designed by Mixtile Team from Focalcrest Inc.
+This is the repository for Documents referring to Gena, a wearable/IoT kit designed by Mixtile Team from Focalcrest Inc.
 
 Archives
 ==================================================
